@@ -1,5 +1,5 @@
 calss role::app_server {
-  include profile::Web
+  include profile::web
   include profile::base
   include profile::app
 }  
